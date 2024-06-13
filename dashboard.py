@@ -131,4 +131,4 @@ def update_energy_comparison(col, month):
 def update_saving_comparison(col, month):
     return create_savings_graph(col, month)
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
