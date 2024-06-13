@@ -1,5 +1,5 @@
 # AltoTech-Data-Scientist-Test
-Final.ipynb is where my Final Model is
+Final.ipynb is where my Final Model is, Third Model (Final Model) in my medium
 
 \home\test.ipynb is where I test a lot of stuffs to get to Final.ipynb
 
